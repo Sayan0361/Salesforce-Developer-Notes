@@ -16,7 +16,7 @@ It's recommended to complete these Trailhead trails first before diving into the
 
 | Topic | Notes |
 |-------|-------|
-| DML, SOQL & SOSL | [📄 Open](https://drive.google.com/file/d/1o2m1VkxEH-Xptucj0HNOX2MDa4PgShj/view?usp=drivesdk) |
+| DML, SOQL & SOSL | [📄 Open](https://drive.google.com/file/d/1o2m1VkxEH-Xptucj0hHNOX2MDa4PgShj/view?usp=drivesdk) |
 | Apex Triggers | [📄 Open](https://drive.google.com/file/d/19PSROT6HypP8Asj6nipJFiFzAmrTmtkP/view?usp=drivesdk) |
 | LWC | [📄 Open](https://drive.google.com/file/d/1t2lqUob1iOi7yzdrZNpDBXsPdHf5ux30/view?usp=drivesdk) |
 
