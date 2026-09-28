@@ -19,6 +19,7 @@ It's recommended to complete these Trailhead trails first before diving into the
 | DML, SOQL & SOSL | [📄 Open](https://drive.google.com/file/d/1o2m1VkxEH-Xptucj0hHNOX2MDa4PgShj/view?usp=drivesdk) |
 | Apex Triggers | [📄 Open](https://drive.google.com/file/d/19PSROT6HypP8Asj6nipJFiFzAmrTmtkP/view?usp=drivesdk) |
 | LWC | [📄 Open](https://drive.google.com/file/d/1t2lqUob1iOi7yzdrZNpDBXsPdHf5ux30/view?usp=drivesdk) |
+| API Integration | [📄 Open](https://drive.google.com/file/d/1rMTW88cVQtOVQk5ST1M1EV9w_ekbN_XN/view?usp=drivesdk) |
 
 ---
 
